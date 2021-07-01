@@ -17,46 +17,39 @@
 
 ## 📱 Contact
 
-<p>
-	<a href="https://wa.me/qr/I36W2SKU3ZMCI1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-	<a href="https://t.me/Marcraphael12"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-	<a href="https://mailto.marcraphael979@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-	<a href="https://mailto.marcraphael979@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<p align='center'>
+  <h1> You want to join with me and don't know how? Just check on these link what you prefered!</h1>
+  <div>
+    <a href="https://wa.me/qr/I36W2SKU3ZMCI1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://t.me/Marcraphael12"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://mailto.marcraphael979@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://mailto.marcraphael979@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  </div>
 </p>
 
 
 ## 👨👩 Social
 
-<p>
-	<a href="https://twiter.com/@MarcRaphael20"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-	<a href="https://www.linkedin.com/in/marc-raphael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-	<a href="https://github.com/Marcraphael12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-	<a href="https://stackoverflow.com/users/13896219/marc-raphael"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-	<a href="https://stackexchange.com/users/19034945/marc-raphael"><img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" /></a>
-	<a href="https://codepen.io/marcraphael12"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-	<a href="https://www.hackerrank.com/marcraphael979"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-	<a href="https://www.freecodecamp.org/marc_raphael"><img src="https://img.shields.io/badge/FreeCodeCamp-000000?style=for-the-badge&logo=H&logoColor=darkblue" /></a>
+<p align='center'>
+  
+  <h1>join me on my socials,you can follow, like, or share the content if you want. You all wellcome! </h1>
+  
+  <div>
+    <a href="https://twiter.com/@MarcRaphael20"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/marc-raphael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/Marcraphael12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://stackoverflow.com/users/13896219/marc-raphael"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://stackexchange.com/users/19034945/marc-raphael"><img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" /></a>
+    <a href="https://codepen.io/marcraphael12"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+    <a href="https://www.hackerrank.com/marcraphael979"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+    <a href="https://www.freecodecamp.org/marc_raphael"><img src="https://img.shields.io/badge/FreeCodeCamp-000000?style=for-the-badge&logo=H&logoColor=darkblue" /></a>
+    <a href="https://www.youtube.com/channel/UCO4CU18lVtqbHKyHl_Bn6aQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+ </div>
 </p>
-
-## 💻 OS
-<p>
-	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-	<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-	<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-</p>
-
-
-## 🎞 Streaming
-
-<a href="https://www.youtube.com/channel/UCO4CU18lVtqbHKyHl_Bn6aQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-
 
 ## 🚀 Skills
 
-<p>
+<!--<p>
 	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
@@ -91,12 +84,16 @@
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 	<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+</p>-->
 
 ## 🎮🕹 Games
 
-<p>
-	<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-	<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-	<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<p align='center'>
+  <h1> I'm also a video game lover and player. These are my three preferd platform!</h1>
+  
+  <div>
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+    <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </div>
 </p>
