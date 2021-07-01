@@ -14,8 +14,10 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&count_private=true&theme=dark" width="350"><a>
 </p>
-
-## 📱 Contact
+ 
+<br><hr>
+    
+<h1 align='center'>📱 Contact</h1>
 
 <p align='center' width='500px'>
   You want to join with me and don't know how? Just check on these link what you prefered!
@@ -27,7 +29,8 @@
   </div>
 </p>
 
-
+<br><hr>
+ 
 <h1 align='center'> 👨👩 Social </h1>
 
 <p align='center' width=500px>
@@ -81,6 +84,7 @@
 	<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>-->
+<br><hr>
 
 <h1 align='center'>🎮🕹 Games</h1>
 
