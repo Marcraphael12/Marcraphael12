@@ -6,6 +6,11 @@
   A student as Full stack developper at Microverse
 </p>
 
+<p align="center"> 
+  You are visitor number: <br>
+  <img src="https://profile-counter.glitch.me/Marcraphael12/count.svg" />
+</p>
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&count_private=true&theme=dark" width="350"><a>
 </p>
