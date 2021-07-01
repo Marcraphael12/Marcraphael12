@@ -28,7 +28,7 @@
 </p>
 
 
-## 👨👩 Social
+<h1 align='center'> 👨👩 Social </h1>
 
 <p align='center' width=500px>
   join me on my socials,you can follow, like, or share the content if you want. You all wellcome!
@@ -44,8 +44,6 @@
     <a href="https://www.youtube.com/channel/UCO4CU18lVtqbHKyHl_Bn6aQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
  </div>
 </p>
-
-## 🚀 Skills
 
 <!--<p>
 	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -84,7 +82,7 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>-->
 
-## 🎮🕹 Games
+<h1 align='center'>🎮🕹 Games</h1>
 
 <p align='center' width='500px'>
   I'm also a video game lover and player. These are my three preferd platform!
