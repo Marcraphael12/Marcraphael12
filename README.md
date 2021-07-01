@@ -30,7 +30,7 @@
 
 ## 👨👩 Social
 
-<p align='center' width='500px'>
+<p align='center' width=500px>
   join me on my socials,you can follow, like, or share the content if you want. You all wellcome!
   <div align='center'>
     <a href="https://twiter.com/@MarcRaphael20"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
