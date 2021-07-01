@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align='center'>
   Hello everyone 👋 I'm Marc Raphael 👨‍💻
 </h1>
