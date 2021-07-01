@@ -17,7 +17,7 @@
 
 ## 📱 Contact
 
-<p align='center'>
+<p align='center' width='500px'>
   You want to join with me and don't know how? Just check on these link what you prefered!
   <div align='center'>
     <a href="https://wa.me/qr/I36W2SKU3ZMCI1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -30,10 +30,8 @@
 
 ## 👨👩 Social
 
-<p align='center'>
-  
+<p align='center' width='500px'>
   join me on my socials,you can follow, like, or share the content if you want. You all wellcome!
-  
   <div align='center'>
     <a href="https://twiter.com/@MarcRaphael20"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/marc-raphael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -88,7 +86,7 @@
 
 ## 🎮🕹 Games
 
-<p align='center'>
+<p align='center' width='500px'>
   I'm also a video game lover and player. These are my three preferd platform!
   
   <div align='center'>
