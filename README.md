@@ -12,9 +12,10 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&count_private=true&theme=dark" width="350"><a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&count_private=true&theme=dark" />
+  <img alt="Marc Raphael's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&layout=compact&theme=dark" />
 </p>
- 
+
 <br><hr>
     
 <h1 align='center'>📱 Contact</h1>
