@@ -13,12 +13,19 @@
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&count_private=true&theme=dark" />
-  <img alt="Marc Raphael's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&layout=compact&theme=dark" />
+</p>
+
+<p align='center'>
+  |Streaks|Most Used Languages
+  |-|-|
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&layout=compact&theme=dark" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailharmanda&theme=dark" />
 </p>
 
 <br><hr>
     
 <h1 align='center'>📱 Contact</h1>
+<hr>
 
 <p align='center' width='500px'>
   You want to join with me and don't know how? Just check on these link what you prefered!
@@ -33,6 +40,7 @@
 <br><hr>
  
 <h1 align='center'> 👨👩 Social </h1>
+<hr>
 
 <p align='center' width=500px>
   join me on my socials,you can follow, like, or share the content if you want. You all wellcome!
@@ -88,6 +96,7 @@
 <br><hr>
 
 <h1 align='center'>🎮🕹 Games</h1>
+<hr>
 
 <p align='center' width='500px'>
   I'm also a video game lover and player. These are my three preferd platform!
