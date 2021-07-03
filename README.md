@@ -16,10 +16,8 @@
 </p>
 
 <p align='center'>
-  |Streaks|Most Used Languages|
-  |-|-|
- |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&layout=compact&theme=dark" />|
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcraphael12&theme=dark" />|
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&layout=compact&theme=dark" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcraphael12&theme=dark" />
 </p>
 
 <br><hr>
