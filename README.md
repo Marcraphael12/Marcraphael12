@@ -10,14 +10,14 @@
   You are visitor number: <br>
   <img src="https://profile-counter.glitch.me/Marcraphael12/count.svg" />
 </p>
-
+<hr><br>
 <p align='center'>
   <h2> Here you can see the most coging languages actually used by me </h2> <br>
   <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&layout=compact&theme=dark" />
   </p>
 </p>
-
+<br>
 <p align='center'>
   <h2> My working frequency and all activities on GitHub</h2> <br>
   <p align='center'>
