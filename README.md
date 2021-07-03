@@ -12,14 +12,14 @@
 </p>
 <hr><br>
 <p align='center'>
-  <h2> Here you can see the most coging languages actually used by me </h2> <br>
+  <h2 align='center'> Here you can see the most coging languages actually used by me </h2> <br>
   <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&layout=compact&theme=dark" />
   </p>
 </p>
 <br>
 <p align='center'>
-  <h2> My working frequency and all activities on GitHub</h2> <br>
+  <h2 align='center'> My working frequency and all activities on GitHub</h2> <br>
   <p align='center'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcraphael12&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&count_private=true&theme=dark" />
