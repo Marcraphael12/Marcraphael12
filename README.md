@@ -53,9 +53,9 @@
     <a href="https://stackexchange.com/users/19034945/marc-raphael"><img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" /></a>
     <a href="https://codepen.io/marcraphael12"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
     <a href="https://www.hackerrank.com/marcraphael979"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-    <a href="https://www.freecodecamp.org/marc_raphael"><img src="https://img.shields.io/badge/FreeCodeCamp-000000?style=for-the-badge&logo=H&logoColor=darkblue" /></a>
+    <a href="https://www.freecodecamp.org/marc_raphael"><img src="https://img.shields.io/badge/FreeCodeCamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=darkblue" /></a>
     <a href="https://www.youtube.com/channel/UCO4CU18lVtqbHKyHl_Bn6aQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href=" https://www.figma.com/@Marcraphael"><img src="https://img.shields.io/badge/FigmaDesign-FF0000?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a href=" https://www.figma.com/@Marcraphael"><img src="https://img.shields.io/badge/Figma_Design-rgb(255, 0, 212)?style=for-the-badge&logo=figma&logoColor=white"></a>
  </div>
 </p>
 
