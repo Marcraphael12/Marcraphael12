@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> 
-  You are visitor number: <br>
+  You are welcome dear visitor: <br>
   <img src="https://profile-counter.glitch.me/Marcraphael12/count.svg" />
 </p>
 <hr><br>
@@ -21,7 +21,7 @@
 <p align='center'>
   <h2 align='center'> My working frequency and all activities on GitHub</h2> <br>
   <p align='center'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcraphael12&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Marcraphael12&theme=soft-green&background=19062CB3&stroke=DD272700&sideLabels=141CBB&ring=0A5E76&fire=DDAA39&sideNums=0011DD&currStreakNum=0011DD&dates=DD272700&currStreakLabel=2F9410)](https://git.io/streak-stats" />
     <img src="https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&count_private=true&theme=dark" />
   </p>
 </p>
