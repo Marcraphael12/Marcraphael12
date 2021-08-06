@@ -21,7 +21,7 @@
 <p align='center'>
   <h2 align='center'> My working frequency and all activities on GitHub</h2> <br>
   <p align='center'>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Marcraphael12&theme=soft-green&background=19062CB3&stroke=DD272700&sideLabels=141CBB&ring=0A5E76&fire=DDAA39&sideNums=0011DD&currStreakNum=0011DD&dates=DD272700&currStreakLabel=2F9410)](https://git.io/streak-stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Marcraphael12&border=3923DD&background=221E5AE1&stroke=A7DD5C03&ring=FF0000EB&fire=DD951A&currStreakNum=DD272700&currStreakLabel=DD272700&dates=DD272700&sideNums=55CA4C&sideLabels=99DD30)](https://git.io/streak-stats />
     <img src="https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&count_private=true&theme=dark" />
   </p>
 </p>
@@ -100,7 +100,7 @@
 <h1 align='center'>🎮🕹 Games</h1>
 
 <p align='center' width='500px'>
-  I'm also a video game lover and player. These are my three preferd platform!
+  I'm also a video game lover and player. These are my three preferred platforms!
   
   <div align='center'>
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
