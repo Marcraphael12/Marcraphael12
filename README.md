@@ -9,6 +9,7 @@
 <p align="center"> 
   You are welcome dear visitor: <br>
   <img src="https://profile-counter.glitch.me/Marcraphael12/count.svg" />
+  ![](https://img.shields.io/github/followers/Marcraphael12?style=social)
 </p>
 <hr><br>
 <p align='center'>
