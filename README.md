@@ -54,10 +54,13 @@
 <div>
   <p>Let's connect and chat, Ilike to talk wiyh others</p>
   <div style="display: flex; align-items: center; justify-space-between: center;">
-    <a href="https://www.linkedin.com/in/marc-raphael"><img src="./images/linkedin-box-fill.svg"/></a>
-    <a href="https://twiter.com/@MarcRaphael20"><img src="./images/twitter-line.svg"/></a>
-    <a href="mailto:marcraphael979@gmail.com"><img src="./images/mail-star-line.svg"/></a>
+    <a href="https://www.linkedin.com/in/marc-raphael"><img width="20px" height="20px" src="./images/linkedin-box-fill.svg"/></a>
+    <a href="https://twiter.com/@MarcRaphael20"><img width="20px" height="20px" src="./images/twitter-line.svg"/></a>
+    <a href="mailto:marcraphael979@gmail.com"><img width="20px" height="20px" src="./images/mail-star-line.svg"/></a>
   </div>
-  <div style="display: flex; align-items: center; justify-content: center;">![Number of visitors](https://visitor-badge.glitch.me/badge?page_id=Marcraphael12.visitor-bagdes&left_color=green&right_color=red)</div>
+
+  <div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://visitors-badge.glitch.me/badge?page_id=Marcraphael12.visitor-bagdes&left_color=green&right_color=red" />
+  </div>
 
 </div>
