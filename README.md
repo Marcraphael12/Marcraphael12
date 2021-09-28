@@ -51,9 +51,8 @@
  </div>
 </p>
 
-<p align="center">
-  Every day i like to see a new visitor, and today i have at least <img src="https://profile-counter.glitch.me/Marcraphael12/count.svg" /><br>
+<div>
+  <p>Let's connect and chat, Ilike to talk wiyh others</p>
+  <center>![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcraphael12.My dears-visitors&left_color=green&right_color=red)</center>
 
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcraphael12.My dears-visitors&left_color=green&right_color=red)
-</p>
+</div>
