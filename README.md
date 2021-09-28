@@ -53,8 +53,11 @@
 
 <div>
   <p>Let's connect and chat, Ilike to talk wiyh others</p>
-  <center>![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcraphael12.My-dears-visitors&left_color=green&right_color=red)</center>
-
-
+  <div style="display: flex; align-items: center; justify-space-between: center;">
+    <a href="https://www.linkedin.com/in/marc-raphael"><img src="./images/linkedin-box-fill.svg"/></a>
+    <a href="https://twiter.com/@MarcRaphael20"><img src="./images/twitter-line.svg"/></a>
+    <a href="mailto:marcraphael979@gmail.com"><img src="./images/mail-star-line.svg"/></a>
+  </div>
+  <div style="display: flex; align-items: center; justify-content: center;">![Number of visitors](https://visitor-badge.glitch.me/badge?page_id=Marcraphael12.visitor-bagdes&left_color=green&right_color=red)</div>
 
 </div>
