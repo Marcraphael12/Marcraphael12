@@ -54,5 +54,6 @@
 <p align="center">
   Every day i like to see a new visitor, and today i have at least <img src="https://profile-counter.glitch.me/Marcraphael12/count.svg" /><br>
 
-  <img src="https://img.shields.io/github/followers/Marcraphael12?style=social" />
+
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Marcraphael12.My dears visitors&left_color=green&right_color=red)
 </p>
