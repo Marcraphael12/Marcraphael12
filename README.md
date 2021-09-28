@@ -1,5 +1,5 @@
 <h1 align='center'>
-  ![](./images/topImg.gif)
+  <img src="./images/topImg.gif"/>
 </h1>
 
 <p align="center">
