@@ -22,6 +22,6 @@ I am Marc raphael! I am working on projects related to web development.
 </p>
 
 [![Marc Raphael's github activity graph](https://activity-graph.herokuapp.com/graph?username=Marcraphael12&theme=rogue)](https://github.com/Marcraphael12/github-readme-activity-graph)
-<img alt="Forks" src="https://img.shields.io/github/stars/Marcraphael12/Awesome-books?style=flat-square&labelColor=343b41"/>
-
+<a href="https://github.com/Marcraphael12/Awesome-books/stargazers"><img alt="Forks" src="https://img.shields.io/github/stars/Marcraphael12/Awesome-books?style=flat-square&labelColor=343b41"/></a>
+[Awesome books](https://img.shields.io/github/stars/Marcraphael12/Awesome-books?style=flat-square&labelColor=343b41)
 ⭐ From [Marc Raphael](https://github.com/Marcraphael12)
