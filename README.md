@@ -12,7 +12,7 @@
 
 ### Hi 👋
 I am Marc raphael! I am working on projects related to web development.
-- 👨🏽‍💻 Currently work on a to-do list web app.
+- 👨🏽‍💻 Currently working on JavaScript projects.
 - 🤝 Looking for collaborations in algorithmes and web development.
 - 🌐 Visit my [porfolio website](#) for complete background and contact.
 
