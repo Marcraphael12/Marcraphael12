@@ -14,6 +14,7 @@
 I am Marc raphael! I am working on projects related to web development.
 - 👨🏽‍💻 Currently working on JavaScript projects.
 - 🤝 Looking for collaborations in algorithmes and web development.
+- Always available for new opportunities
 - 🌐 Visit my [porfolio website](#) for complete background and contact.
 
 <p align = "center">
