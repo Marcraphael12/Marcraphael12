@@ -15,7 +15,7 @@ I am Marc raphael! I am working on projects related to web development.
 - 👨🏽‍💻 Currently working on JavaScript projects.
 - 🤝 Looking for collaborations in algorithmes and web development.
 - Always available for new opportunities
-- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) for complete background and contact.
+- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&theme=radical&line_height=33">
