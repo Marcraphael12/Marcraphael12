@@ -17,7 +17,7 @@ I am Marc raphael! I am working on projects related to web development.
 - Always available for new opportunities
 - 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.
 
-<p align = "center">
+<p style="width: 100%; display: flex; justify-content: space-between">
   <img src = "https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&theme=radical&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&hide_langs_below=.25&theme=radical">
 </p>
