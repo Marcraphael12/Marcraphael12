@@ -8,7 +8,7 @@
 
 <img src="./images/topImg.gif">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twiter.com/@MarcRaphael20)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marc-raphael-326039204/) [<img src = "https://img.shields.io/badge/figma-%23E4405F.svg?&style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/@Marcraphael) [<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">]("https://www.youtube.com/channel/UCO4CU18lVtqbHKyHl_Bn6aQ")  ![Visits Badge](https://badges.pufler.dev/visits/Marcraphael12/Marcraphael12?style=for-the-badge )
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twiter.com/@MarcRaphael20)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marc-raphael-326039204/) [<img src = "https://img.shields.io/badge/figma-%23E4405F.svg?&style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/@Marcraphael)![Visits Badge](https://badges.pufler.dev/visits/Marcraphael12/Marcraphael12?style=for-the-badge )
 
 ### Hi 👋
 I am Marc raphael! I am working on projects related to web development.
