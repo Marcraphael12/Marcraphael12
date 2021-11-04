@@ -23,7 +23,7 @@ I am Marc raphael! I am working on projects related to web development.
 </p>
 
 <!--[![Marc Raphael's github activity graph](https://activity-graph.herokuapp.com/graph?username=Marcraphael12&theme=rogue)](https://github.com/UserName/github-readme-activity-graph)-->
-[url=https://https://www.coinpayu.com/?r=Marcraphael][img]https://www.coinpayu.com/static/advertiser_banner/468X60.gif[/img][/url]
+<a href="https://www.coinpayu.com/?r=Marcraphael"><img title="Join coinpayu to earn!" alt="coinpayu" src="https://www.coinpayu.com/static/advertiser_banner/468X60.gif"></a>
 
 
 ⭐ From [Marc Raphael](https://github.com/Marcraphael12)
