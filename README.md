@@ -1,11 +1,3 @@
-<p align='center' width='500px'>
-  <div align='center'>
-    <a href="https://wa.me/qr/I36W2SKU3ZMCI1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="https://t.me/Marcraphael12"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://mailto.marcraphael979@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://mailto.marcraphael979@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  </div>
-
 <img src="./images/banner.png">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twiter.com/@MarcRaphael20)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/EssogoRaphael/) [<img src = "https://img.shields.io/badge/figma-%23E4405F.svg?&style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/@Marcraphael)![Visits Badge](https://badges.pufler.dev/visits/Marcraphael12/Marcraphael12?style=for-the-badge )
