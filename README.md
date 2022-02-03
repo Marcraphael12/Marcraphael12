@@ -6,7 +6,7 @@
     <a href="https://mailto.marcraphael979@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   </div>
 
-<img src="./images/topImg.gif">
+<img src="./images/banner.png">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twiter.com/@MarcRaphael20)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/EssogoRaphael/) [<img src = "https://img.shields.io/badge/figma-%23E4405F.svg?&style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/@Marcraphael)![Visits Badge](https://badges.pufler.dev/visits/Marcraphael12/Marcraphael12?style=for-the-badge )
 
