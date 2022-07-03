@@ -7,7 +7,7 @@ I am Marc raphael! I am working on projects related to web development.
 - 👨🏽‍💻 Currently working on React&Redux projects.
 - 🤝 Looking for collaborations in algorithmes and web development.
 - Always available for new opportunities
-- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.
+<!-- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.-->
 <p align="center">
   <a href="https://github.com/shoirata">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcraphael12&show_icons=true&theme=midnight-black&count_private=true"/>
