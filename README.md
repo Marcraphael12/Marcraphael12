@@ -1,6 +1,6 @@
 <img src="./images/banner.png">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twiter.com/@MarcRaphael20)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/EssogoRaphael/) [<img src = "https://img.shields.io/badge/figma-%23E4405F.svg?&style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/@Marcraphael)![Visits Badge](https://badges.pufler.dev/visits/Marcraphael12/Marcraphael12?style=for-the-badge )
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twiter.com/@MarcRaphael20)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/EssogoRaphael/) [<img src = "https://img.shields.io/badge/figma-%23E4405F.svg?&style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/@Marcraphael)
 
 ### Hi 👋
 I am Marc raphael! I am working on projects related to web development.
@@ -9,7 +9,7 @@ I am Marc raphael! I am working on projects related to web development.
 - Always available for new opportunities
 <!-- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.-->
 <p align="center">
-  <a href="https://github.com/shoirata">
+  <a href="https://github.com/Marcraphael12">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcraphael12&show_icons=true&theme=midnight-black&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&show_icons=true&theme=midnight-black&layout=compact" alt="Marc raphael" />
   </a>
