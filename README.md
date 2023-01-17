@@ -8,13 +8,5 @@ I am Marc raphael! I am working on projects related to web development.
 - 🤝 Looking for collaborations in algorithmes and web development.
 - Always available for new opportunities
 <!-- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.-->
-<p align="center">
-  <a href="https://github.com/Marcraphael12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcraphael12&show_icons=true&theme=midnight-black&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&show_icons=true&theme=midnight-black&layout=compact" alt="Marc raphael" />
-  </a>
-</p>
-
-<!--[![Marc Raphael's github activity graph](https://activity-graph.herokuapp.com/graph?username=Marcraphael12&theme=rogue)](https://github.com/UserName/github-readme-activity-graph)-->
 
 ⭐ From [Marc Raphael](https://github.com/Marcraphael12)
