@@ -4,7 +4,7 @@
 
 ### Hi 👋
 I am Marc raphael! Frontend Developer.
-- 👨🏽‍💻 Currently working on React&Redux projects.
+- 👨🏽‍💻 Currently taking a small break 🥱.
 - 🤝 Looking for collaborations in algorithmes and web development.
 - Always available for new opportunities
 <!-- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.-->
