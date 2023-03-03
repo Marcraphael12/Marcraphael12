@@ -4,8 +4,8 @@
 
 ### Hi 👋
 I am Marc raphael! Frontend Developer.
-- 👨🏽‍💻 Currently taking a small break 🥱.
-- 🤝 Looking for collaborations in algorithmes and web development.
+- 👨🏽‍💻 Currently working on Ruby and RoR projects.
+- 🤝 Open for collaborations in algorithmes and web development.
 - Always available for new opportunities
 <!-- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.-->
 
