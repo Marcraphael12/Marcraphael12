@@ -9,4 +9,9 @@ I am Marc raphael! Frontend Developer.
 - Always available for new opportunities
 <!-- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.-->
 
+<div>
+    <img align="center" alt="Alwyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Marcraphael12&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Alwyn's GitHub stats" />
+</div>
+
 ⭐ From [Marc Raphael](https://github.com/Marcraphael12)
