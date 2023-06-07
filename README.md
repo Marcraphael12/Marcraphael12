@@ -8,5 +8,7 @@ I am Marc raphael! Frontend Developer.
 - 🤝 Open for collaborations in algorithmes and web development.
 - Always available for new opportunities
 <!-- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.-->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcraphael12&theme=dark&layout=compact)![Github stats](https://github-readme-stats.vercel.app/api?username=Marcraphael12&theme=dark&show_icons=true&count_private=true)
+
 
 ⭐ From [Marc Raphael](https://github.com/Marcraphael12)
