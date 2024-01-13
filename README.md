@@ -4,9 +4,8 @@
 
 ### Hi 👋
 I am Marc Raphael! Fullstack web Developer.
-- 👨🏽‍💻 Currently working on the backend of [my portfolio](https://github.com/Marcraphael12/portfolio-backend).
+- 👨🏽‍💻 Currently working on the frontend of [my portfolio](https://github.com/Marcraphael12/portfolio-frontend).
 - 🤝 Open for collaborations in algorithms and web development.
 - Always available for new opportunities
-<!-- 🌐 Take a loot at my [porfolio website](https://portofolio.marcraphael.repl.co/) to learn more about myself.-->
 
 ⭐ From [Marc Raphael](https://github.com/Marcraphael12)
